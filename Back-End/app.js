@@ -64,7 +64,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://127.0.0.1:5173",
-      "https://heroic-begonia-887362.netlify.app",
+      "https://world-exec-me.netlify.app",
     ],
     credentials: true,
     exposedHeaders: ["set-cookie"],
