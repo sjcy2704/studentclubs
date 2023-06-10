@@ -5,6 +5,7 @@ router.get("/", function (req, res) {
   req.pool.getConnection(function (err, connection) {
     if (err) {
       res.sendStatus(500);
+      throw err;
       return;
     }
 
@@ -14,6 +15,7 @@ router.get("/", function (req, res) {
       connection.release();
       if (err) {
         res.sendStatus(500);
+        throw err;
         return;
       }
 

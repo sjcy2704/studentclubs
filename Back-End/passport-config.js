@@ -56,6 +56,7 @@ function initPassport(passport, db, res) {
   };
 
   const googleAuthenticateUser = (accessToken, refreshToken, profile, done) => {
+    console.log(profile);
     db.getConnection(function (err, connection) {
       if (err) {
         throw err;

@@ -169,7 +169,7 @@ export const routes = [
   {
     path: "/auth/google",
     redirect: (to) => {
-      window.location.href = "http://localhost:8080/auth/google";
+      window.location.href = "http://localhost:3000/auth/google";
     },
   },
 ];
