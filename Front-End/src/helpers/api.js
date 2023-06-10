@@ -1,6 +1,6 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:3000/",
+  baseURL: "https://stingray-app-3hd6p.ondigitalocean.app/",
   withCredentials: true,
 });

@@ -169,7 +169,8 @@ export const routes = [
   {
     path: "/auth/google",
     redirect: (to) => {
-      window.location.href = "http://localhost:3000/auth/google";
+      window.location.href =
+        "https://stingray-app-3hd6p.ondigitalocean.app/auth/google";
     },
   },
 ];
