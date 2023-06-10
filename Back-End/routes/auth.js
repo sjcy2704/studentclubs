@@ -10,7 +10,9 @@ router.get(
 
 router.get(
   "/google/callback",
-  passport.authenticate("google", { successRedirect: "http://localhost:5173" })
+  passport.authenticate("google", {
+    successRedirect: "https://heroic-begonia-887362.netlify.app",
+  })
 );
 
 module.exports = router;
