@@ -11,7 +11,7 @@ router.get(
 router.get(
   "/google/callback",
   passport.authenticate("google", {
-    successRedirect: "https://heroic-begonia-887362.netlify.app",
+    successRedirect: "https://world-exec-me.netlify.app",
   })
 );
 
