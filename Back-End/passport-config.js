@@ -153,7 +153,8 @@ function initPassport(passport, db, res) {
       {
         clientID: process.env["GOOGLE_CLIENT_ID"],
         clientSecret: process.env["GOOGLE_CLIENT_SECRET"],
-        callbackURL: "http://localhost:8080/auth/google/callback",
+        callbackURL:
+          "https://stingray-app-3hd6p.ondigitalocean.app/auth/google/callback",
       },
       googleAuthenticateUser
     )

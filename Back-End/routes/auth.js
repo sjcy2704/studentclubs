@@ -11,7 +11,7 @@ router.get(
 router.get(
   "/google/callback",
   passport.authenticate("google", {
-    successRedirect: "https://world-exec-me.netlify.app",
+    successRedirect: "http://world-exec-me.netlify.app",
   })
 );
 

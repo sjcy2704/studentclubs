@@ -60,7 +60,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/abss.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/abss.png'
   ),
   (
     2,
@@ -74,7 +74,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/17904253_1410689965669477_9136746633619311521_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/17904253_1410689965669477_9136746633619311521_n.jpg'
   ),
   (
     3,
@@ -88,7 +88,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435348_2_optimized-capture.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435348_2_optimized-capture.jpg'
   ),
   (
     7,
@@ -102,7 +102,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/afc_full_colour.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/afc_full_colour.png'
   ),
   (
     8,
@@ -116,7 +116,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/ahmsa.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/ahmsa.jpg'
   ),
   (
     9,
@@ -130,7 +130,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435333_2_untitled-1.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435333_2_untitled-1.jpg'
   ),
   (
     10,
@@ -144,7 +144,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/amss-shield-colour.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/amss-shield-colour.png'
   ),
   (
     11,
@@ -158,7 +158,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/140470300_3385162964939878_7355648638229128640_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/140470300_3385162964939878_7355648638229128640_n.jpg'
   ),
   (
     12,
@@ -172,7 +172,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/logo-with-caption.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/logo-with-caption.png'
   ),
   (
     13,
@@ -186,7 +186,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/sri-lankan.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/sri-lankan.jpg'
   ),
   (
     14,
@@ -200,7 +200,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/asap-logo(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/asap-logo(1).png'
   ),
   (
     15,
@@ -214,7 +214,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/ascc.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/ascc.png'
   ),
   (
     16,
@@ -228,7 +228,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/toastmasters.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/toastmasters.jpg'
   ),
   (
     17,
@@ -242,7 +242,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435387_2_12512312_709628779174483_5858947130415483286_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435387_2_12512312_709628779174483_5858947130415483286_n.jpg'
   ),
   (
     18,
@@ -256,7 +256,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/hiphop.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/hiphop.png'
   ),
   (
     19,
@@ -270,7 +270,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aups-logo.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aups-logo.png'
   ),
   (
     20,
@@ -284,7 +284,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aubc-logo(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aubc-logo(1).png'
   ),
   (
     21,
@@ -298,7 +298,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/chess-club.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/chess-club.jpg'
   ),
   (
     22,
@@ -312,7 +312,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aucsa-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aucsa-logo.jpg'
   ),
   (
     23,
@@ -326,7 +326,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/audrey-pfp.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/audrey-pfp.png'
   ),
   (
     25,
@@ -340,7 +340,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/144158295_234669931471707_2368364429815757606_n(1).jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/144158295_234669931471707_2368364429815757606_n(1).jpg'
   ),
   (
     30,
@@ -354,7 +354,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/debating.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/debating.png'
   ),
   (
     31,
@@ -368,7 +368,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/auec-logo-small.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/auec-logo-small.jpg'
   ),
   (
     32,
@@ -382,7 +382,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435295_2_colour.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435295_2_colour.png'
   ),
   (
     33,
@@ -396,7 +396,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aues-logo-no-black-nor-background-black-text.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aues-logo-no-black-nor-background-black-text.png'
   ),
   (
     34,
@@ -410,7 +410,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3535236_2_ac0b0bae-b4c5-4402-acb4-ca234934b1fb.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3535236_2_ac0b0bae-b4c5-4402-acb4-ca234934b1fb.jpg'
   ),
   (
     35,
@@ -424,7 +424,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/4.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/4.png'
   ),
   (
     38,
@@ -438,7 +438,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/foosball.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/foosball.png'
   ),
   (
     39,
@@ -452,7 +452,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/the-greens.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/the-greens.png'
   ),
   (
     40,
@@ -466,7 +466,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/iet-on-campus.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/iet-on-campus.png'
   ),
   (
     41,
@@ -480,7 +480,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aujs-south-australia-logo-(instagram-post-(square))-2.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aujs-south-australia-logo-(instagram-post-(square))-2.png'
   ),
   (
     42,
@@ -494,7 +494,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/liberal-club.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/liberal-club.jpg'
   ),
   (
     43,
@@ -508,7 +508,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aumsa-logo.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aumsa-logo.png'
   ),
   (
     44,
@@ -522,7 +522,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/uamss-logo-small.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/uamss-logo-small.jpg'
   ),
   (
     45,
@@ -536,7 +536,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/auma-logo---white-background.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/auma-logo---white-background.png'
   ),
   (
     46,
@@ -550,7 +550,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435374_2_favicon.ico.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435374_2_favicon.ico.png'
   ),
   (
     47,
@@ -564,7 +564,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aupa.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aupa.jpg'
   ),
   (
     48,
@@ -578,7 +578,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/republic.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/republic.jpg'
   ),
   (
     49,
@@ -592,7 +592,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/7.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/7.png'
   ),
   (
     50,
@@ -606,7 +606,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aurha.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aurha.png'
   ),
   (
     51,
@@ -620,7 +620,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/auscalogoshieldbold.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/auscalogoshieldbold.png'
   ),
   (
     52,
@@ -634,7 +634,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/secular.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/secular.png'
   ),
   (
     53,
@@ -648,7 +648,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/300420165_440811538091372_7773423927602357032_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/300420165_440811538091372_7773423927602357032_n.jpg'
   ),
   (
     54,
@@ -662,7 +662,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/124452808_150830950092542_3345956548285742509_o.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/124452808_150830950092542_3345956548285742509_o.png'
   ),
   (
     55,
@@ -676,7 +676,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/spanish.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/spanish.jpg'
   ),
   (
     56,
@@ -690,7 +690,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/vector-ai-01.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/vector-ai-01.jpg'
   ),
   (
     57,
@@ -704,7 +704,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/10.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/10.png'
   ),
   (
     58,
@@ -718,7 +718,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435323_2_acc-logo-(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435323_2_acc-logo-(1).png'
   ),
   (
     61,
@@ -732,7 +732,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435308_2_uaasalogo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435308_2_uaasalogo.jpg'
   ),
   (
     62,
@@ -746,7 +746,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/11.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/11.png'
   ),
   (
     63,
@@ -760,7 +760,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/145761457_194985512358661_5308118540189363919_n.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/145761457_194985512358661_5308118540189363919_n.png'
   ),
   (
     64,
@@ -774,7 +774,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/ai__ml_club_logo_white_backgraound.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/ai__ml_club_logo_white_backgraound.png'
   ),
   (
     65,
@@ -788,7 +788,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435434_2_aiaa-symbol-astronaut.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435434_2_aiaa-symbol-astronaut.jpg'
   ),
   (
     66,
@@ -802,7 +802,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435367_2_auac_logo.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435367_2_auac_logo.png'
   ),
   (
     67,
@@ -816,7 +816,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/artsstudentsassociation.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/artsstudentsassociation.jpg'
   ),
   (
     68,
@@ -830,7 +830,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/circle-(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/circle-(1).png'
   ),
   (
     69,
@@ -844,7 +844,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435405_2_41848043_2089515501060096_1450954336157827072_n.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435405_2_41848043_2089515501060096_1450954336157827072_n.png'
   ),
   (
     70,
@@ -858,7 +858,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435361_2_img_2289.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435361_2_img_2289.jpg'
   ),
   (
     71,
@@ -872,7 +872,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3495466_2_26914256_1667447053293839_2124612072_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3495466_2_26914256_1667447053293839_2124612072_n.jpg'
   ),
   (
     72,
@@ -886,7 +886,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/cambodian-students-of-adelaide.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/cambodian-students-of-adelaide.jpg'
   ),
   (
     73,
@@ -900,7 +900,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/logo-refined.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/logo-refined.png'
   ),
   (
     74,
@@ -914,7 +914,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3491321_2_logo-final-main.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3491321_2_logo-final-main.jpg'
   ),
   (
     75,
@@ -928,7 +928,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/chems.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/chems.jpg'
   ),
   (
     76,
@@ -942,7 +942,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/civil-engineering.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/civil-engineering.jpg'
   ),
   (
     77,
@@ -956,7 +956,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435297_2_cahs-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435297_2_cahs-logo.jpg'
   ),
   (
     78,
@@ -970,7 +970,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435436_2_casig-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435436_2_casig-logo.jpg'
   ),
   (
     79,
@@ -984,7 +984,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3491325_2_cpc-png.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3491325_2_cpc-png.png'
   ),
   (
     80,
@@ -998,7 +998,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/computer-science.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/computer-science.png'
   ),
   (
     81,
@@ -1012,7 +1012,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435362_2_73158206_409801549692348_5701549242691092480_n-(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435362_2_73158206_409801549692348_5701549242691092480_n-(1).png'
   ),
   (
     82,
@@ -1026,7 +1026,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/dida-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/dida-logo.jpg'
   ),
   (
     83,
@@ -1040,7 +1040,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3491322_2_logooo.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3491322_2_logooo.png'
   ),
   (
     84,
@@ -1054,7 +1054,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435360_2_profile-photo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435360_2_profile-photo.jpg'
   ),
   (
     85,
@@ -1068,7 +1068,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/ecmta.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/ecmta.jpg'
   ),
   (
     86,
@@ -1082,7 +1082,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/electronic-engineering.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/electronic-engineering.jpg'
   ),
   (
     87,
@@ -1096,7 +1096,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/engineers-for-the-earth.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/engineers-for-the-earth.png'
   ),
   (
     88,
@@ -1110,7 +1110,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/engineers-without-borders.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/engineers-without-borders.jpg'
   ),
   (
     91,
@@ -1124,7 +1124,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435425_2_10534636_450639498409795_5040486039051317410_n.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435425_2_10534636_450639498409795_5040486039051317410_n.png'
   ),
   (
     92,
@@ -1138,7 +1138,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435296_2_esig-image.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435296_2_esig-image.jpg'
   ),
   (
     93,
@@ -1152,7 +1152,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435332_2_download.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435332_2_download.jpg'
   ),
   (
     94,
@@ -1166,7 +1166,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/evan.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/evan.jpg'
   ),
   (
     95,
@@ -1180,7 +1180,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435303_2_26239602_10214774566428095_7503557207491388058_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435303_2_26239602_10214774566428095_7503557207491388058_n.jpg'
   ),
   (
     96,
@@ -1194,7 +1194,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/games.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/games.jpg'
   ),
   (
     97,
@@ -1208,7 +1208,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/gpsn.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/gpsn.jpg'
   ),
   (
     98,
@@ -1222,7 +1222,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3535254_2_geog-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3535254_2_geog-logo.jpg'
   ),
   (
     99,
@@ -1236,7 +1236,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435311_2_logo.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435311_2_logo.png'
   ),
   (
     103,
@@ -1250,7 +1250,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/augc-logo-high-quality.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/augc-logo-high-quality.png'
   ),
   (
     104,
@@ -1264,7 +1264,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/golden-key.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/golden-key.jpg'
   ),
   (
     105,
@@ -1278,7 +1278,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435422_2_29542351_994682124032980_8331652826186774882_n.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435422_2_29542351_994682124032980_8331652826186774882_n.png'
   ),
   (
     106,
@@ -1292,7 +1292,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435400_2_pp-profile1.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435400_2_pp-profile1.jpg'
   ),
   (
     107,
@@ -1306,7 +1306,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435315_2_screen-shot-2018-04-09-at-20.16.46.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435315_2_screen-shot-2018-04-09-at-20.16.46.png'
   ),
   (
     108,
@@ -1320,7 +1320,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435321_2_logo-updated.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435321_2_logo-updated.png'
   ),
   (
     109,
@@ -1334,7 +1334,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/jlas.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/jlas.png'
   ),
   (
     110,
@@ -1348,7 +1348,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/273434446_145381694574171_636537224576464948_n.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/273434446_145381694574171_636537224576464948_n.jpg'
   ),
   (
     111,
@@ -1362,7 +1362,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3573162_2_logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3573162_2_logo.jpg'
   ),
   (
     114,
@@ -1376,7 +1376,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435393_2_adelaide-universitylabor-club-jpeg.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435393_2_adelaide-universitylabor-club-jpeg.jpg'
   ),
   (
     115,
@@ -1390,7 +1390,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aulss.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aulss.jpg'
   ),
   (
     116,
@@ -1404,7 +1404,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3572970_2_club-profile-pic.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3572970_2_club-profile-pic.png'
   ),
   (
     117,
@@ -1418,7 +1418,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/lmc.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/lmc.jpg'
   ),
   (
     118,
@@ -1432,7 +1432,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/full_circle_dark-(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/full_circle_dark-(1).png'
   ),
   (
     119,
@@ -1446,7 +1446,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/mature-students.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/mature-students.jpg'
   ),
   (
     120,
@@ -1460,7 +1460,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/amess.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/amess.png'
   ),
   (
     121,
@@ -1474,7 +1474,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435432_2_final_black.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435432_2_final_black.jpg'
   ),
   (
     122,
@@ -1488,7 +1488,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/overseas-christian-fellowship.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/overseas-christian-fellowship.jpg'
   ),
   (
     125,
@@ -1502,7 +1502,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/paediatricsd.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/paediatricsd.png'
   ),
   (
     126,
@@ -1516,7 +1516,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3520274_2_auu-clubs-site-small-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3520274_2_auu-clubs-site-small-logo.jpg'
   ),
   (
     127,
@@ -1530,7 +1530,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/pathology.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/pathology.png'
   ),
   (
     129,
@@ -1544,7 +1544,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3491328_2_pig-club.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3491328_2_pig-club.png'
   ),
   (
     130,
@@ -1558,7 +1558,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/pira.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/pira.jpg'
   ),
   (
     131,
@@ -1572,7 +1572,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/5.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/5.png'
   ),
   (
     132,
@@ -1586,7 +1586,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435413_2_pride-logo-clean.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435413_2_pride-logo-clean.jpg'
   ),
   (
     133,
@@ -1600,7 +1600,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/pasig-logo-square.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/pasig-logo-square.png'
   ),
   (
     134,
@@ -1614,7 +1614,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/final_logo_clubs_page(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/final_logo_clubs_page(1).png'
   ),
   (
     135,
@@ -1628,7 +1628,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/social-media-png.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/social-media-png.png'
   ),
   (
     136,
@@ -1642,7 +1642,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435344_2_robogals-adelaide-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435344_2_robogals-adelaide-logo.jpg'
   ),
   (
     137,
@@ -1656,7 +1656,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/roseworthy-boardgames.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/roseworthy-boardgames.jpg'
   ),
   (
     138,
@@ -1670,7 +1670,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/risa-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/risa-logo.jpg'
   ),
   (
     139,
@@ -1684,7 +1684,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3557259_2_69256957_1384228491743363_1199055144197554176_o.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3557259_2_69256957_1384228491743363_1199055144197554176_o.jpg'
   ),
   (
     140,
@@ -1698,7 +1698,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435347_2_7c256f7d-9db4-4498-a709-da0028eb2182.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435347_2_7c256f7d-9db4-4498-a709-da0028eb2182.jpg'
   ),
   (
     141,
@@ -1712,7 +1712,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/639f62ff-3ba2-4c36-97fc-899a4924c899.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/639f62ff-3ba2-4c36-97fc-899a4924c899.jpg'
   ),
   (
     142,
@@ -1726,7 +1726,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/singapore-association.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/singapore-association.png'
   ),
   (
     143,
@@ -1740,7 +1740,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/socialist-alternative.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/socialist-alternative.png'
   ),
   (
     144,
@@ -1754,7 +1754,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435423_2_herman-arms-600x600.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435423_2_herman-arms-600x600.png'
   ),
   (
     145,
@@ -1768,7 +1768,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/society-of-petroleum-engineers.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/society-of-petroleum-engineers.jpg'
   ),
   (
     146,
@@ -1782,7 +1782,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3611334_2_university-of-adelaide.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3611334_2_university-of-adelaide.png'
   ),
   (
     147,
@@ -1796,7 +1796,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/speech-path-student-society.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/speech-path-student-society.jpg'
   ),
   (
     150,
@@ -1810,7 +1810,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/auss-logo-1.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/auss-logo-1.jpg'
   ),
   (
     151,
@@ -1824,7 +1824,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/swing-dance.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/swing-dance.jpg'
   ),
   (
     152,
@@ -1838,7 +1838,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/logosub2a.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/logosub2a.png'
   ),
   (
     153,
@@ -1852,7 +1852,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aasig-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aasig-logo.jpg'
   ),
   (
     154,
@@ -1866,7 +1866,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3561239_2_bssa_logo_aug_2012_medium3.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3561239_2_bssa_logo_aug_2012_medium3.png'
   ),
   (
     155,
@@ -1880,7 +1880,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/philosophy.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/philosophy.png'
   ),
   (
     156,
@@ -1894,7 +1894,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/greek-club.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/greek-club.png'
   ),
   (
     157,
@@ -1908,7 +1908,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/hkmas-icon.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/hkmas-icon.jpg'
   ),
   (
     158,
@@ -1922,7 +1922,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/mechanical.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/mechanical.jpg'
   ),
   (
     159,
@@ -1936,7 +1936,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/model-un.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/model-un.png'
   ),
   (
     160,
@@ -1950,7 +1950,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435426_2_uatg-ss-vertical.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435426_2_uatg-ss-vertical.png'
   ),
   (
     161,
@@ -1964,7 +1964,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/adelaide-uni-wine-club-logo-2022.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/adelaide-uni-wine-club-logo-2022.jpg'
   ),
   (
     162,
@@ -1978,7 +1978,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/uoa-funk-disco-dance-club.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/uoa-funk-disco-dance-club.jpg'
   ),
   (
     163,
@@ -1992,7 +1992,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/tea-club-logo.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/tea-club-logo.jpg'
   ),
   (
     164,
@@ -2006,7 +2006,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/vegan.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/vegan.jpg'
   ),
   (
     165,
@@ -2020,7 +2020,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/3435346_2_ava-edited-01-(1).png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/3435346_2_ava-edited-01-(1).png'
   ),
   (
     166,
@@ -2034,7 +2034,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/wildlife-animal-special-interest-group.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/wildlife-animal-special-interest-group.jpg'
   ),
   (
     167,
@@ -2048,7 +2048,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/wict-logo-01.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/wict-logo-01.jpg'
   ),
   (
     168,
@@ -2062,7 +2062,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/wistems.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/wistems.jpg'
   ),
   (
     169,
@@ -2076,7 +2076,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/9nyobidenxcuvz9y.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/9nyobidenxcuvz9y.png'
   ),
   (
     170,
@@ -2090,7 +2090,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/lbefr2y1ixartjxr.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/lbefr2y1ixartjxr.jpg'
   ),
   (
     171,
@@ -2104,7 +2104,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/vvaezoj13leoxvkz.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/vvaezoj13leoxvkz.jpg'
   ),
   (
     172,
@@ -2118,7 +2118,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/dnfsym7ye6srdqmf.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/dnfsym7ye6srdqmf.png'
   ),
   (
     173,
@@ -2132,7 +2132,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/qf7btkdzhj4xorcn.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/qf7btkdzhj4xorcn.png'
   ),
   (
     174,
@@ -2146,7 +2146,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/aqfhi7wfsjsmeoh8.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/aqfhi7wfsjsmeoh8.png'
   ),
   (
     175,
@@ -2160,7 +2160,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/sj3aimzqtmzu2oks.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/sj3aimzqtmzu2oks.png'
   ),
   (
     176,
@@ -2174,7 +2174,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/1ds6rheefjtngdbm.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/1ds6rheefjtngdbm.png'
   ),
   (
     177,
@@ -2188,7 +2188,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/q81fuiidwhcuuilf.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/q81fuiidwhcuuilf.png'
   ),
   (
     178,
@@ -2202,7 +2202,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/sybosavwmscbil92.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/sybosavwmscbil92.png'
   ),
   (
     179,
@@ -2216,7 +2216,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/7xeafcoychfqvrh9.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/7xeafcoychfqvrh9.jpg'
   ),
   (
     180,
@@ -2230,7 +2230,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/wxfdlseo6flsyal0.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/wxfdlseo6flsyal0.jpg'
   ),
   (
     181,
@@ -2244,7 +2244,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/mkkm4f0ijcogomzs.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/mkkm4f0ijcogomzs.png'
   ),
   (
     182,
@@ -2258,7 +2258,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/lti0bkkibwmps2bu.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/lti0bkkibwmps2bu.jpg'
   ),
   (
     183,
@@ -2272,7 +2272,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/oqvlr5ovnmym1fqa.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/oqvlr5ovnmym1fqa.png'
   ),
   (
     184,
@@ -2286,7 +2286,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/agjcmzbton1z6jia.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/agjcmzbton1z6jia.png'
   ),
   (
     185,
@@ -2300,7 +2300,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/oaethil3qlvh5tve.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/oaethil3qlvh5tve.jpg'
   ),
   (
     186,
@@ -2314,7 +2314,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/ekrmdfrofejo36mv.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/ekrmdfrofejo36mv.png'
   ),
   (
     187,
@@ -2328,7 +2328,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/frm6edmhoxak9sym.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/frm6edmhoxak9sym.jpg'
   ),
   (
     188,
@@ -2342,7 +2342,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/hoitxqyy2un5pvij.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/hoitxqyy2un5pvij.png'
   ),
   (
     189,
@@ -2356,7 +2356,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/tjopahvf7lbyca2w.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/tjopahvf7lbyca2w.png'
   ),
   (
     190,
@@ -2370,7 +2370,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/cujetbkyfglg8q5d.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/cujetbkyfglg8q5d.jpg'
   ),
   (
     191,
@@ -2384,7 +2384,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/edxtmrluxfszx3x9.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/edxtmrluxfszx3x9.png'
   ),
   (
     192,
@@ -2398,7 +2398,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/lxgekpbm9ulcvqr3.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/lxgekpbm9ulcvqr3.png'
   ),
   (
     193,
@@ -2412,7 +2412,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/gnr8annsjwkestt1.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/gnr8annsjwkestt1.png'
   ),
   (
     194,
@@ -2426,7 +2426,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/oup7jlvfujijeb1i.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/oup7jlvfujijeb1i.png'
   ),
   (
     195,
@@ -2440,7 +2440,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/bach7mkepkn2tgul.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/bach7mkepkn2tgul.png'
   ),
   (
     196,
@@ -2454,7 +2454,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/rav5vnc8heghgdgn.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/rav5vnc8heghgdgn.png'
   ),
   (
     197,
@@ -2468,7 +2468,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/lrn0kwsz7dvmtxli.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/lrn0kwsz7dvmtxli.png'
   ),
   (
     198,
@@ -2482,7 +2482,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/rx0pelxloapnvg1i.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/rx0pelxloapnvg1i.png'
   ),
   (
     199,
@@ -2496,7 +2496,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/rnorht1adf9bqndy.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/rnorht1adf9bqndy.png'
   ),
   (
     200,
@@ -2510,7 +2510,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/gywqta2ymwfkwy5v.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/gywqta2ymwfkwy5v.png'
   ),
   (
     201,
@@ -2524,7 +2524,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/rfd4uwagrk3bxvhc.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/rfd4uwagrk3bxvhc.png'
   ),
   (
     202,
@@ -2538,7 +2538,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/sh8czecfzpan3rlx.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/sh8czecfzpan3rlx.png'
   ),
   (
     203,
@@ -2552,7 +2552,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/8fowkkeyhq0phdvl.jpg'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/8fowkkeyhq0phdvl.jpg'
   ),
   (
     204,
@@ -2566,7 +2566,7 @@ VALUES (
     NULL,
     2,
     1,
-    'http://localhost:8080/club-logos/cjzwkgczuu0azr3t.png'
+    'https://stingray-app-3hd6p.ondigitalocean.app/club-logos/cjzwkgczuu0azr3t.png'
   );
 INSERT INTO `ClubMembers`
 VALUES (1, 2),
