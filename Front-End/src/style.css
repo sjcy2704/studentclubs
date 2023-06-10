@@ -1,0 +1,239 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-family: "Roboto Mono", Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* color-scheme: light dark; */
+  /* color: rgba(255, 255, 255, 0.87); */
+  /* background-color: #242424; */
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Reusable */
+.white {
+  color: white;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-65 {
+  width: 65%;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-start {
+  align-items: flex-start;
+}
+
+.center {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.grow-1 {
+  flex-grow: 1;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+/* Rest of Css */
+header {
+  color: white;
+}
+hr {
+  border-style: solid;
+  margin-bottom: 10px;
+}
+
+.ql-container {
+  min-height: 200px;
+}
+input {
+  padding: 5px 10px;
+  font-size: 1.15em;
+  width: 100%;
+  margin-bottom: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: none;
+  font-family: inherit;
+}
+
+input[type="password"] {
+  font-family: Verdana;
+  letter-spacing: 0.125em;
+}
+
+select {
+  padding: 5px 10px;
+  font-size: 1em;
+  width: 100%;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: none;
+  font-family: inherit;
+}
+
+input:focus-visible,
+select:focus-visible {
+  outline-color: black;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  height: 20px;
+  width: 20px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%0'><path d='M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z'/></svg>");
+  cursor: pointer;
+}
+
+main {
+  height: 100%;
+}
+
+.googleLogin {
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+}
+.googleIcon {
+  font-size: 1.3em;
+}
+ul {
+  text-decoration: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  cursor: pointer;
+  font-weight: 500;
+  color: white;
+  text-decoration: inherit;
+}
+
+.container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.lsgForm {
+  max-width: 380px;
+  text-align: left;
+}
+
+button {
+  cursor: pointer;
+  width: 100%;
+  padding: 15px;
+  margin-top: 10px;
+  font-size: 1em;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  font-family: inherit;
+  font-weight: 600;
+  color: white;
+}
+
+.options {
+  text-align: center;
+}
+
+.options span {
+  font-weight: 900;
+}
+
+.options a {
+  font-weight: 400;
+  font-size: 0.9em;
+  color: black;
+}
+.mainContainer {
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .m-col {
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .sm-col {
+    flex-direction: column;
+  }
+  .sm-w100 {
+    width: 100%;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
